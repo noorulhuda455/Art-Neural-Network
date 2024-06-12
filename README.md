@@ -1,4 +1,4 @@
-#Art Neural Network
+Art Neural Network
     Team members: Noor Ul Huda, Stephanie Sicilian, and Jocinda Vázquez
 
 -This reposotry was used at the Pace University AI Internship Experince
